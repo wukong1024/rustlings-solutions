@@ -1,4 +1,8 @@
-# Exercise to Book Chapter mapping
+# rustlings-solutions
+
+The solutions to [rustlings](https://github.com/rust-lang/rustlings).
+
+## Exercise to Book Chapter mapping
 
 | Exercise               | Book Chapter        |
 | ---------------------- | ------------------- |
@@ -24,3 +28,5 @@
 | macros                 | §19.6               |
 | clippy                 | n/a                 |
 | conversions            | n/a                 |
+
+
